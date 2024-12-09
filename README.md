@@ -1,0 +1,1 @@
+A machine learning project to predict the survival status of liver cirrhosis patients based on clinical features. The project involves data preprocessing, handling missing values, model training, hyperparameter tuning, and feature importance analysis to identify key factors associated with patient outcomes.
